@@ -1,5 +1,5 @@
 # LMM_SBD-Hyperspectral-Unmixing
-https://github.com/SG-Azar/LMM_SBD-hyperspectral-Unmixing/blob/main/abstract.JPG
+![abstract](https://user-images.githubusercontent.com/56957343/122734524-6915e480-d293-11eb-87e7-026b27f5e388.JPG)
 
 This demo illustrates the unmixing of a 105x128x144 subset of the real Houston dataset with the LMM-SBD method introduced in the following paper:
 
