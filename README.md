@@ -1,2 +1,2 @@
-# LMM_SBD-hyperspectral-Unmixing
+# LMM_SBD
 Hyperspectral unmixing with the LMM-SBD method
